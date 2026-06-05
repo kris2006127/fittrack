@@ -99,6 +99,7 @@ pnpm typecheck
 cd src/backend
 mops check --fix
 Build for Production
+
 # Frontend
 cd src/frontend
 pnpm build
@@ -107,8 +108,7 @@ This app is deployed to the Internet Computer network. After making changes:
 
 dfx deploy --network ic
 
-#Author
-
+# Author
 G V Grisha
 
 
