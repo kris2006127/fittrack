@@ -107,6 +107,8 @@ This app is deployed to the Internet Computer network. After making changes:
 
 dfx deploy --network ic
 
+#Author
 
+G V Grisha
 
 
